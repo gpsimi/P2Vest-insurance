@@ -6,9 +6,9 @@ export default {
   ],
   theme: {
     extend: {
-      fontFamily: {
-        brFirma: ["BR Firma", ...defaultFonts]
-      }
+      // fontFamily: {
+      //   brFirma: ["BR Firma", ...defaultFonts]
+      // }
     },
   },
   plugins: [
